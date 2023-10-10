@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SecondProject</string>
+    <string-array name="books">
+        <item>Programming</item>
+        <item>DataBase</item>
+        <item>Web</item>
+    </string-array>
+</resources>
